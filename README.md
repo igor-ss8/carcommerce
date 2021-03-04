@@ -1,7 +1,7 @@
 # carcommerce
 Ecommerce for eletric cars
 
-Techs
+# Techs
 - Typescript
 - Styled components
 - React js
